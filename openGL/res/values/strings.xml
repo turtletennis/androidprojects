@@ -1,0 +1,7 @@
+<resources>
+
+	<string name="hello">Hello, OpenGL ES 2.0!</string>
+	<string name="app_name">Accel</string>
+	<string name="menu_settings">Menu Settings</string>
+
+</resources>
